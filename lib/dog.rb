@@ -2,11 +2,9 @@
 class Dog
   def bark
     woof!
+  end
 
 end
 
 name= Dog.new
 fido = "Fido"
-
-fido.bark
-woof!
