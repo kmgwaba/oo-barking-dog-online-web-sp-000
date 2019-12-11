@@ -2,8 +2,8 @@
 class Dog
   def name= (dog_name)
     fido = Dog.new
-    fido.name = "Fido"
-    fido.bark
-    woof
+    dog_name = "Fido"
+    dog_name.bark
+    woof!
   end
 end
