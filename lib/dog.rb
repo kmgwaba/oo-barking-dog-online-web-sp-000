@@ -3,8 +3,8 @@ class Dog
 
 end
 
-fido = Dog.new
-fido.name = "Fido"
+.name= Dog.new
+.name = "Fido"
 
 fido.bark
 woof!
