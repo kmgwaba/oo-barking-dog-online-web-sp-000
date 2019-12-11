@@ -6,5 +6,5 @@ end
 name= Dog.new
 name = "Fido"
 
-name.bark
+Dog.bark
 woof!
