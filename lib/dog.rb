@@ -4,7 +4,7 @@ class Dog
 end
 
 name= Dog.new
-name = "Fido"
+fido = "Fido"
 
-Dog.bark
+fido.bark
 woof!
